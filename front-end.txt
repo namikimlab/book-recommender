@@ -1,0 +1,5 @@
+Front-end:
+https://cis545-book-project-60m9b4032y8.streamlit.app/Parameter_based_book_recommender
+
+Github repo for the front-end:
+https://github.com/wuwaisum0517/cis545-book-project
